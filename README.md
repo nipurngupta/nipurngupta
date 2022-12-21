@@ -8,7 +8,7 @@
 
 
 📊 Data Science Projects
-* [Identify trends in usage of smart devices for Bellabeat's marketing team (R + Microsoft Powerpoint)](https://github.com/nipurngupta/nipurngupta.github.io/tree/main/Projects/Project%2001%20-%20Bellabeat)
+* [Identify trends in usage of smart devices for Bellabeat's marketing team (R + Tableau + Presentation)](https://github.com/nipurngupta/nipurngupta.github.io/tree/main/Projects/Project%2001%20-%20Bellabeat)
 
 
 📫 Kaggle and Tableau
