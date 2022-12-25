@@ -9,6 +9,7 @@
 
 📊 Data Science Projects
 * [Identify trends in usage of smart devices for Bellabeat's marketing team (R + Tableau + Presentation)](https://github.com/nipurngupta/nipurngupta.github.io/tree/main/Projects/Project%2001%20-%20Bellabeat)
+* [Analyze Cyclistic's data to help develop marketing strategy (Excel + R + Tableau)](https://github.com/nipurngupta/nipurngupta.github.io/tree/main/Projects/Project%2002%20-%20Cyclistic)
 
 
 📫 Kaggle and Tableau
