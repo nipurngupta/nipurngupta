@@ -13,5 +13,5 @@
 
 📫 Kaggle and Tableau
 * Kaggle Account
-* My Tableau
+* [My Tableau](https://public.tableau.com/app/profile/nipurngupta)
 
